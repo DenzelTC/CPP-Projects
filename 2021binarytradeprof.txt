@@ -1,0 +1,102 @@
+**Anything above trade prof is withdrawn**
+
+1st 30 at 15%
+starting $300
+
+Trade 1 profit - $45 new total - $345
+Trade 2 profit - $51.75 new total - $396.75
+Trade 3 profit - $59.5125 new total - $456.262
+Trade 4 profit - $68.4394 new total - $524.702
+Trade 5 profit - $78.7053 new total - $603.407
+Trade 6 profit - $90.5111 new total - $693.918
+Trade 7 profit - $104.088 new total - $798.006
+Trade 8 profit - $119.701 new total - $917.707
+Trade 9 profit - $137.656 new total - $1055.36
+Trade 10 profit - $158.304 new total - $1213.67
+Trade 11 profit - $182.05 new total - $1395.72
+Trade 12 profit - $209.358 new total - $1605.08
+Trade 13 profit - $240.761 new total - $1845.84
+Trade 14 profit - $276.875 new total - $2122.71
+Trade 15 profit - $318.407 new total - $2441.12
+Trade 16 profit - $366.168 new total - $2807.29
+Trade 17 profit - $421.093 new total - $3228.38
+Trade 18 profit - $484.257 new total - $3712.64
+Trade 19 profit - $556.895 new total - $4269.53
+Trade 20 profit - $640.43 new total - $4909.96
+Trade 21 profit - $736.494 new total - $5646.46
+Trade 22 profit - $846.968 new total - $6493.42
+Trade 23 profit - $974.014 new total - $7467.44
+Trade 24 profit - $1120.12 new total - $8587.55
+Trade 25 profit - $1288.13 new total - $9875.69
+Trade 26 profit - $1481.35 new total - $11357
+Trade 27 profit - $1703.56 new total - $13060.6
+Trade 28 profit - $1959.09 new total - $15019.7
+Trade 29 profit - $2252.95 new total - $17272.6
+withdraw = +$4200
+
+2nd 30 at 10%
+starting - $13000
+
+Trade 1 profit - $1300 new total - $14300
+Trade 2 profit - $1430 new total - $15730
+Trade 3 profit - $1573 new total - $17303
+Trade 4 profit - $1730.3 new total - $19033.3
+Trade 5 profit - $1903.33 new total - $20936.6
+Trade 6 profit - $2093.66 new total - $23030.3
+Trade 7 profit - $2303.03 new total - $25333.3
+Trade 8 profit - $2533.33 new total - $27866.7
+Trade 9 profit - $2786.67 new total - $30653.3
+Trade 10 profit - $3065.33 new total - $33718.7
+Trade 11 profit - $3371.87 new total - $37090.5
+Trade 12 profit - $3709.05 new total - $40799.6
+Trade 13 profit - $4079.96 new total - $44879.5
+Trade 14 profit - $4487.95 new total - $49367.5
+Trade 15 profit - $4936.75 new total - $54304.2
+Trade 16 profit - $5430.42 new total - $59734.6
+Trade 17 profit - $5973.46 new total - $65708.1
+Trade 18 profit - $6570.81 new total - $72278.9
+Trade 19 profit - $7227.89 new total - $79506.8
+Trade 20 profit - $7950.68 new total - $87457.5
+Trade 21 profit - $8745.75 new total - $96203.2
+Trade 22 profit - $9620.32 new total - $105824
+Trade 23 profit - $10582.4 new total - $116406
+Trade 24 profit - $11640.6 new total - $128047
+Trade 25 profit - $12804.7 new total - $140851
+Trade 26 profit - $14085.1 new total - $154936
+Trade 27 profit - $15493.6 new total - $170430
+Trade 28 profit - $17043 new total - $187473
+Trade 29 profit - $18747.3 new total - $206220
+withdrawal  = +$56000
+
+3rd 30 at 5% 
+starting - $150000
+
+Trade 1 profit - $7500 new total - $157500
+Trade 2 profit - $7875 new total - $165375
+Trade 3 profit - $8268.75 new total - $173644
+Trade 4 profit - $8682.19 new total - $182326
+Trade 5 profit - $9116.3 new total - $191442
+Trade 6 profit - $9572.11 new total - $201014
+Trade 7 profit - $10050.7 new total - $211065
+Trade 8 profit - $10553.3 new total - $221618
+Trade 9 profit - $11080.9 new total - $232699
+Trade 10 profit - $11635 new total - $244334
+Trade 11 profit - $12216.7 new total - $256551
+Trade 12 profit - $12827.5 new total - $269378
+Trade 13 profit - $13468.9 new total - $282847
+Trade 14 profit - $14142.4 new total - $296990
+Trade 15 profit - $14849.5 new total - $311839
+Trade 16 profit - $15592 new total - $327431
+Trade 17 profit - $16371.6 new total - $343803
+Trade 18 profit - $17190.1 new total - $360993
+Trade 19 profit - $18049.6 new total - $379043
+Trade 20 profit - $18952.1 new total - $397995
+Trade 21 profit - $19899.7 new total - $417894
+Trade 22 profit - $20894.7 new total - $438789
+Trade 23 profit - $21939.5 new total - $460729
+Trade 24 profit - $23036.4 new total - $483765
+Trade 25 profit - $24188.2 new total - $507953
+Trade 26 profit - $25397.7 new total - $533351
+Trade 27 profit - $26667.5 new total - $560018
+Trade 28 profit - $28000.9 new total - $588019
+Trade 29 profit - $29401 new total - $617420

@@ -1,0 +1,132 @@
+day 1 profit - $1 new total - $11
+day 2 profit - $1.1 new total - $12
+day 3 profit - $1.2 new total - $13
+day 4 profit - $1.3 new total - $14
+day 5 profit - $1.4 new total - $15
+day 6 profit - $1.5 new total - $16
+day 7 profit - $1.6 new total - $17
+day 8 profit - $1.7 new total - $18
+day 9 profit - $1.8 new total - $19
+day 10 profit - $1.9 new total - $20
+day 11 profit - $2 new total - $22
+day 12 profit - $2.2 new total - $24
+day 13 profit - $2.4 new total - $26
+day 14 profit - $2.6 new total - $28
+day 15 profit - $2.8 new total - $30
+day 16 profit - $3 new total - $33
+day 17 profit - $3.3 new total - $36
+day 18 profit - $3.6 new total - $39
+day 19 profit - $3.9 new total - $42
+day 20 profit - $4.2 new total - $46
+day 21 profit - $4.6 new total - $50
+day 22 profit - $5 new total - $55
+day 23 profit - $5.5 new total - $60
+day 24 profit - $6 new total - $66
+day 25 profit - $6.6 new total - $72
+day 26 profit - $7.2 new total - $79
+day 27 profit - $7.9 new total - $86
+day 28 profit - $8.6 new total - $94
+day 29 profit - $9.4 new total - $103
+day 30 profit - $10.3 new total - $113
+day 31 profit - $11.3 new total - $124
+day 32 profit - $12.4 new total - $136
+day 33 profit - $13.6 new total - $149
+day 34 profit - $14.9 new total - $163
+day 35 profit - $16.3 new total - $179
+day 36 profit - $17.9 new total - $196
+day 37 profit - $19.6 new total - $215
+day 38 profit - $21.5 new total - $236
+day 39 profit - $23.6 new total - $259
+day 40 profit - $25.9 new total - $284
+day 41 profit - $28.4 new total - $312
+day 42 profit - $31.2 new total - $343
+day 43 profit - $34.3 new total - $377
+day 44 profit - $37.7 new total - $414
+day 45 profit - $41.4 new total - $455
+day 46 profit - $45.5 new total - $500
+day 47 profit - $50 new total - $550
+day 48 profit - $55 new total - $605
+day 49 profit - $60.5 new total - $665
+day 50 profit - $66.5 new total - $731
+day 51 profit - $73.1 new total - $804
+day 52 profit - $80.4 new total - $884
+day 53 profit - $88.4 new total - $972
+day 54 profit - $97.2 new total - $1 069
+day 55 profit - $106.9 new total - $1 175
+day 56 profit - $117.5 new total - $1 292
+day 57 profit - $129.2 new total - $1 421
+day 58 profit - $142.1 new total - $1 563
+day 59 profit - $156.3 new total - $1 719
+day 60 profit - $171.9 new total - $1 890
+day 61 profit - $189 new total - $2 079
+day 62 profit - $207.9 new total - $2 286
+day 63 profit - $228.6 new total - $2 514
+day 64 profit - $251.4 new total - $2 765
+day 65 profit - $276.5 new total - $3 041
+day 66 profit - $304.1 new total - $3 345
+day 67 profit - $334.5 new total - $3 679
+day 68 profit - $367.9 new total - $4 046
+day 69 profit - $404.6 new total - $4 450
+day 70 profit - $445 new total - $4 895
+day 71 profit - $489.5 new total - $5 384
+day 72 profit - $538.4 new total - $5 922
+day 73 profit - $592.2 new total - $6 514
+day 74 profit - $651.4 new total - $7 165
+day 75 profit - $716.5 new total - $7 881
+day 76 profit - $788.1 new total - $8 669
+day 77 profit - $866.9 new total - $9 535
+day 78 profit - $953.5 new total - $10 488
+day 79 profit - $1048.8 new total - $11 536
+day 80 profit - $1153.6 new total - $12 689
+day 81 profit - $1268.9 new total - $13 957
+day 82 profit - $1395.7 new total - $15 352
+day 83 profit - $1535.2 new total - $16 887
+day 84 profit - $1688.7 new total - $18 575
+day 85 profit - $1857.5 new total - $20 432
+day 86 profit - $2043.2 new total - $22 475
+day 87 profit - $2247.5 new total - $24 722
+day 88 profit - $2472.2 new total - $27 194
+day 89 profit - $2719.4 new total - $29 913
+day 90 profit - $2991.3 new total - $32 904
+day 91 profit - $3290.4 new total - $36 194
+day 92 profit - $3619.4 new total - $39 813
+day 93 profit - $3981.3 new total - $43 794
+day 94 profit - $4379.4 new total - $48 173
+day 95 profit - $4817.3 new total - $52 990
+day 96 profit - $5299 new total - $58 289
+day 97 profit - $5828.9 new total - $64 117
+day 98 profit - $6411.7 new total - $70 528
+day 99 profit - $7052.8 new total - $77 580
+day 100 profit - $7758 new total - $85 338
+day 101 profit - $8533.8 new total - $93 871
+day 102 profit - $9387.1 new total - $103 258
+day 103 profit - $10325.8 new total - $113 583
+day 104 profit - $11358.3 new total - $124 941
+day 105 profit - $12494.1 new total - $137 435
+day 106 profit - $13743.5 new total - $151 178
+day 107 profit - $15117.8 new total - $166 295
+day 108 profit - $16629.5 new total - $182 924
+day 109 profit - $18292.4 new total - $201 216
+day 110 profit - $20121.6 new total - $221 337
+day 111 profit - $22133.7 new total - $243 470
+day 112 profit - $24347 new total - $267 817
+day 113 profit - $26781.7 new total - $294 598
+day 114 profit - $29459.8 new total - $324 057
+day 115 profit - $32405.7 new total - $356 462
+day 116 profit - $35646.2 new total - $392 108
+day 117 profit - $39210.8 new total - $431 318
+day 118 profit - $43131.8 new total - $474 449
+day 119 profit - $47444.9 new total - $521 893
+day 120 profit - $52189.3 new total - $574 082
+day 121 profit - $57408.2 new total - $631 490
+day 122 profit - $63149 new total - $694 639
+day 123 profit - $69463.9 new total - $764 102
+day 124 profit - $76410.2 new total - $840 512
+day 125 profit - $84051.2 new total - $924 563
+day 126 profit - $92456.3 new total - $101 7019
+day 127 profit - $101702 new total - $1 118 720
+day 128 profit - $111872 new total - $1 230 592
+day 129 profit - $123059 new total - $1 353 651
+day 130 profit - $135365 new total - $1 489 016
+day 131 profit - $148902 new total - $1 637 917
+day 132 profit - $163792 new total - $1 801 708
